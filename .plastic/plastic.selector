@@ -1,0 +1,4 @@
+repository "surah@tes1@cloud"
+  path "/"
+    br "/main"
+    co "/main"
